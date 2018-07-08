@@ -1,2 +1,2 @@
-# leslibresgeograpes.org
+# leslibresgeographes.org
 Les Libres Géographes landing page
